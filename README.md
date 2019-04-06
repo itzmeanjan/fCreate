@@ -163,13 +163,21 @@ A Simple EYE Test Game, powered by Flutter CustomPainter.
 - This is it.
 
 
+## Screen Captures
+
+ ![ScreenCapture 1](https://github.com/itzmeanjan/fCreate/blob/master/Screenshot_20190407-005819.png)
+ ![ScreenCapture 2](https://github.com/itzmeanjan/fCreate/blob/master/Screenshot_20190407-005833.png)
+ ![ScreenCapture 3](https://github.com/itzmeanjan/fCreate/blob/master/Screenshot_20190407-005845.png)
+
+
+
 ## Download 
 
-  Release version of apk can be found [here](https://github.com/itzmeanjan/fCreate/blob/master/fCreate.apk).
+ Release version of apk can be found [here](https://github.com/itzmeanjan/fCreate/blob/master/fCreate.apk).
   
 ## Courtesy
   
-  Last but not least thanks to Flutter, Dart, Google and all other persons who're somehow associated with this project. Thanks for building such a great ecosystem.
+ Last but not least thanks to Flutter, Dart, Google and all other persons who're somehow associated with this project. Thanks for building such a great ecosystem.
 
 
 
