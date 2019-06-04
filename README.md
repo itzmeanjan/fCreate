@@ -1,3 +1,5 @@
+<p align="center"><img src="/logo/logotype-vertical.png"></p>
+
 # fCreate
 
 A Simple EYE Test Game, powered by Flutter CustomPainter.
